@@ -1,5 +1,12 @@
 # Parcel Distribution
+<p>
+<img src="https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist%20on%20GitHub-CI?branchName=master"/>
+ </p>
+ <p>
+ <img src="[![Build Status](https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist%20on%20GitHub-CI?branchName=master)](https://dev.azure.com/alireza-es/ParcelDist/_build/latest?definitionId=4&branchName=master)"/>
+ </p>
 This is a hypothetical problem to practice SOLID design principles and show some agile practices like Automatic Build, Automatic Test, Continuous Integration (CI) and Continuous Delivery (CD).
+
 ## Problem
 <p>
 You work at a parcel delivery company and you are asked to design a system to automate the internal handling of parcels coming in.  
