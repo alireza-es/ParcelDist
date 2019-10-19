@@ -17,6 +17,9 @@ The current business rules are as follows:
  </p>
  <p>
 ## Problem
+ 
+ ## Solution
+
  </p>
 <p>
   <img src="https://raw.githubusercontent.com/fadamedia/ParcelDist/master/etc/design.jpg"/>
