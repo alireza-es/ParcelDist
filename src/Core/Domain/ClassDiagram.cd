@@ -16,7 +16,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FM.ParcelDist.Core.Domain.RegularDepartment">
-    <Position X="7.75" Y="2.75" Width="1.75" />
+    <Position X="5.5" Y="2.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Domain\Department.cs</FileName>
@@ -32,7 +32,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FM.ParcelDist.Core.Domain.InsuranceDepartment">
-    <Position X="5.25" Y="2.75" Width="1.75" />
+    <Position X="8.25" Y="2.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAIAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Domain\Department.cs</FileName>
@@ -40,7 +40,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FM.ParcelDist.Core.Domain.Organization">
-    <Position X="7.5" Y="0.5" Width="2" />
+    <Position X="8" Y="0.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAABAAAAAgAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Domain\Organization.cs</FileName>
