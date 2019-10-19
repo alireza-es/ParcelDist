@@ -37,6 +37,8 @@ If management wants to add a new department, you should add a new class and deri
  </p>
 <p> 
 It is “Open” to extend because you can easily create your type of department (IParcelProcessor, IParcelSigner) and implement its behaviors (Process or SignOff).  
+ </p>
+<p> 
 It is “Close” for modification because ParcelDistributationService is working with interfaces, not concrete classes. Encapsulation occurs here.
 
  </p>
