@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\FM.ParcelDist.Core.csproj" />
+    <ProjectReference Include="..\Core\FM.ParcelDist.Core.csproj" />
   </ItemGroup>
 
 </Project>
