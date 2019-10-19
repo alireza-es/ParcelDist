@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<Container xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>68465468</Id>
+  <ShippingDate>2016-07-22T00:00:00+02:00</ShippingDate>
+  <parcels>
+    <Parcel>
+      <Sender>
+        <Name>Klaas</Name>
+        <Address>
+          <Street>Uranusstraat</Street>
+          <HouseNumber>22</HouseNumber>
+          <PostalCode>2402AE</PostalCode>
+          <City>Alphen a/d Rijn</City>
+        </Address>
+      </Sender>
+      <Receipient>
+        <Name>Piet</Name>
+        <Address>
+          <Street>Schenklaan</Street>
+          <HouseNumber>22</HouseNumber>
+          <PostalCode>2497AV</PostalCode>
+          <City>Den Haag</City>
+        </Address>
+      </Receipient>
+      <Weight>0.02</Weight>
+      <Value>0.0</Value>
+    </Parcel>
+    <Parcel>
+      <Sender xsi:type="Company">
+        <Name>SITA Ypenburg B.V.</Name>
+        <Address>
+          <Street>ILSY-PLantsoen</Street>
+          <HouseNumber>1</HouseNumber>
+          <PostalCode>2497GA</PostalCode>
+          <City>Den Haag</City>
+        </Address>
+        <CcNumber>65465424</CcNumber>
+      </Sender>
+      <Receipient>
+        <Name>Aad</Name>
+        <Address>
+          <Street>Korenbloemkamp</Street>
+          <HouseNumber>22</HouseNumber>
+          <PostalCode>2353HS</PostalCode>
+          <City>Leiderdorp</City>
+        </Address>
+      </Receipient>
+      <Weight>2.0</Weight>
+      <Value>0.0</Value>
+    </Parcel>
+    <Parcel>
+      <Sender xsi:type="Company">
+        <Name>SITA Ypenburg B.V.</Name>
+        <Address>
+          <Street>ILSY-PLantsoen</Street>
+          <HouseNumber>1</HouseNumber>
+          <PostalCode>2497GA</PostalCode>
+          <City>Den Haag</City>
+        </Address>
+        <CcNumber>65465424</CcNumber>
+      </Sender>
+      <Receipient>
+        <Name>Martijn</Name>
+        <Address>
+          <Street>Burgemeester Roosstraat</Street>
+          <HouseNumber>33</HouseNumber>
+          <PostalCode>3035 AC</PostalCode>
+          <City>Rotterdam</City>
+        </Address>
+      </Receipient>
+      <Weight>100.0</Weight>
+      <Value>2000.0</Value>
+    </Parcel>
+    <Parcel>
+      <Sender xsi:type="Company">
+        <Name>Aad</Name>
+        <Address>
+          <Street>Korenbloemkamp</Street>
+          <HouseNumber>22</HouseNumber>
+          <PostalCode>2353HS</PostalCode>
+          <City>Leiderdorp</City>
+        </Address>
+      </Sender>
+      <Receipient>
+        <Name>Martijn</Name>
+        <Address>
+          <Street>Burgemeester Roosstraat</Street>
+          <HouseNumber>33</HouseNumber>
+          <PostalCode>3035 AC</PostalCode>
+          <City>Rotterdam</City>
+        </Address>
+      </Receipient>
+      <Weight>11</Weight>
+      <Value>500</Value>
+    </Parcel>
+  </parcels>
+</Container>
