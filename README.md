@@ -16,7 +16,7 @@ The current business rules are as follows:
 -   Parcels with a value of over € 1000,- need to be signed off by the "Insurance" department, before being processed by Mail, Regular or Heavy department.
  </p>
  <p>
-## Problem
+
  
  ## Solution
 
