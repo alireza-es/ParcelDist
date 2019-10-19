@@ -32,7 +32,7 @@ If management wants to add a new department, you should add a new class and deri
 </p>
 <p>
  
-### Examples of using Open/Close Principle in solustion
+### Example of using Open/Close Principle(OCP) in solustion
  
  </p>
 <p> 
@@ -42,3 +42,15 @@ It is “Open” to extend because you can easily create your type of department
 It is “Close” for modification because ParcelDistributationService is working with interfaces, not concrete classes. Encapsulation occurs here.
 
  </p>
+ <p>
+ 
+### Example of using Interface Segration Principle(ISP) in solustion
+ 
+ </p>
+<p> 
+Two multiple behaviors of the department (Processing or Signing Off) are put into two different interfaces (IParcelProcessor, IParcelSigner) instead of just one interface. 
+  </p>
+ <p>
+So, the insurance department does not have to implement the Process method, because it does not know how to implement it.
+ </p>
+
