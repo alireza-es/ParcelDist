@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+bin
+obj
+SITA.ParcelDist.sln.DotSettings.user
+node_modules
+Logs
+_ReSharper.Caches
+*.rar
+*.pubxml
+*.jar
+/src/.vs/SITA.ParcelDist
+/src/SITA.ParcelDist.sln.DotSettings
+/src/.vs
+/src/ConsoleApp/.vs/FM.ParcelDist.ConsoleApp
