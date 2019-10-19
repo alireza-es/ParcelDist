@@ -5,4 +5,18 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Files\Container.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Files\Container.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\FM.ParcelDist.Core.csproj" />
+  </ItemGroup>
+
 </Project>
