@@ -12,7 +12,7 @@ namespace FM.ParcelDist.Core.Domain
         public Parcel(double weight, double value)
         {
             Weight = weight;
-            Value = value;
+            Value = value + 10;
         }
         public Company Sender { get; set; }
         [XmlElement("Receipient")]
