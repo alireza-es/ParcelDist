@@ -15,8 +15,9 @@ The current business rules are as follows:
 -   Parcels with a weight over 10 kg are handled by the "Heavy" department.
 -   Parcels with a value of over € 1000,- need to be signed off by the "Insurance" department, before being processed by Mail, Regular or Heavy department.
  </p>
+ <p>
 ## Solution
-
+ </p>
 <p>
   <img src="https://raw.githubusercontent.com/fadamedia/ParcelDist/master/etc/design.jpg"/>
 </p>
