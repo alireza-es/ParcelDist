@@ -30,4 +30,13 @@ In this project, there are two types of department: IParcelProcessor, IParcelSig
 <p>
 If management wants to add a new department, you should add a new class and derive it from department and implement IParcelProcessor or IParcelSigner based on its type. Then you should add it to your organization structure. Organization structure is just a list of departments.
 </p>
+<p>
+ 
+### Examples of using Open/Close Principle in solustion
+ 
+ </p>
+<p> 
+It is “Open” to extend because you can easily create your type of department (IParcelProcessor, IParcelSigner) and implement its behaviors (Process or SignOff).  
+It is “Close” for modification because ParcelDistributationService is working with interfaces, not concrete classes. Encapsulation occurs here.
 
+ </p>
