@@ -1,6 +1,6 @@
 # Parcel Distribution
 <p>
-<a href="https://dev.azure.com/alireza-es/ParcelDist/_build/latest?definitionId=4&branchName=master" rel="DevOps Azure Pipeline Build Status"><img src="https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist%20on%20GitHub-CI?branchName=master"/></a>
+<a href="https://dev.azure.com/alireza-es/ParcelDist/_build/latest?definitionId=4&branchName=master" target="_blank" rel="DevOps Azure Pipeline Build Status"><img src="https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist%20on%20GitHub-CI?branchName=master"/></a>
  </p>
  <p>
 This is a hypothetical problem to practice SOLID design principles and show some agile practices like Automatic Build, Automatic Test, Continuous Integration (CI) and Continuous Delivery (CD).
