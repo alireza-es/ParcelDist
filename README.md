@@ -1,10 +1,8 @@
 # Parcel Distribution
-<p>
-[![Build Status](https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist-.NET%20Core-CI?branchName=master)](https://dev.azure.com/alireza-es/ParcelDist/_build/latest?definitionId=7&branchName=master)
- </p>
- <p>
+[![Build Status](https://dev.azure.com/alireza-es/ParcelDist/_apis/build/status/ParcelDist-.NET%20Core-CI?branchName=master)](https://dev.azure.com/alireza-es/ParcelDist/_build?definitionId=7&_a=summary) 
+
 This is a hypothetical problem to practice SOLID design principles and show some agile practices like Automatic Build, Automatic Test, Continuous Integration (CI) and Continuous Delivery (CD).
-</p>
+
 <p>
  
 ## Problem
